@@ -10,7 +10,6 @@ import { dataType } from '../dataType';
 
 export class CrudService {
   //private apiUrl: string = 'http://localhost:5000/data';
-  //private apiUrl: string = "assets/sampleData.json"
   private apiUrl:string = "https://61099fe5d71b670017639a18.mockapi.io/api/v1/users"
   headers = new HttpHeaders().set('Content-Type', 'application/json');
 
