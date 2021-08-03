@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  overflow-x: hidden!important;
+}
+h1,h2,h3{
+  font-family: inherit;
+  text-transform: uppercase;
+}
+p{
+  font-family: inherit;
+  margin-bottom: 10px;
+}
+a,
+a:hover{
+  outline: none!important;
+  cursor:pointer;
+}
+ul,ol,li{
+  list-style: none;
+}
+fa-icon{
+  cursor:pointer;
+}
+
+.navbar{
+  background-color: #1752d3;
+  height:60px;
+  margin-bottom: 80px;
+  display:flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.navbar h2{
+  font-size: 20px;
+  color: #f4f4f4;
+  letter-spacing: 0.5px;
+  margin-right: 30px;;
+}
+.navbar img{
+  margin-right: 6px;
+  font-size: 13px;
+  text-transform: lowercase;
+  width: 40px;
+  background-color: crimson;
+  padding:3px;
+}
+.navbar ._dropdown{
+  margin-left: 1%;
+  border: 1px solid #fff;
+}
+.navbar ._dropdown .dropbutton{
+  background-color: inherit;
+  font-size: 17px;
+  color:#fff;
+}
+
+.table_view tbody tr th{
+  font-size:16px;
+  letter-spacing: 0.4px;
+  padding:15px;
+  text-transform: capitalize;
+}
+.table_view tbody tr th fa-icon{
+  color:crimson;
+  padding: 12px;
+  font-size:18px;
+}
+
+

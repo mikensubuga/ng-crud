@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Kaka Limited",
+      "number": "0773456781",
+      "location": "Kampala"
+    },
+    {
+      "id": 2,
+      "name": "Foo Company",
+      "number": "0773456781",
+      "location": "Kampala"
+    },
+    {
+      "id": 3,
+      "name": "Krystal Water",
+      "number": "0773456781",
+      "location": "Mukono"
+    },
+    {
+      "id": 4,
+      "name": "Foo Company",
+      "number": "0773456781",
+      "location": "Kampalao"
+    },
+    {
+      "id": 5,
+      "name": "Kaka Limited",
+      "number": "0773456781",
+      "location": "Kampala"
+    },
+    {
+      "id": 7,
+      "name": "Foo Company",
+      "number": "0773456781",
+      "location": "Kampala"
+    },
+    {
+      "id": 8,
+      "name": "Kaka Limited",
+      "number": "0773456781",
+      "location": "Kampala"
+    }
+  ]
+}
